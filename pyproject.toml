@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "hacker-news-workshop"
+version = "0.1.0"
+description = ""
+authors = ["Kacper Łukawski <lukawski.kacper@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+llama-index = "^0.9.46"
+qdrant-client = "^1.7.3"
+transformers = "^4.37.2"
+torch = "^2.2.0"
+jupyter = "^1.0.0"
+python-dotenv = "^1.0.1"
+wget = "^3.2"
+pyarrow = "^15.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
