@@ -69,7 +69,7 @@ llama-index==0.9.46
 MarkupSafe==2.1.5
 marshmallow==3.20.2
 matplotlib-inline==0.1.6
-mistune==3.0.2
+mistune==3.2.1
 mpmath==1.3.0
 multidict==6.0.5
 mypy-extensions==1.0.0
