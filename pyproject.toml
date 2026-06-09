@@ -14,7 +14,7 @@ torch = "^2.2.0"
 jupyter = "^1.0.0"
 python-dotenv = "^1.0.1"
 wget = "^3.2"
-pyarrow = "^15.0.0"
+pyarrow = ">=15,<24"
 
 
 [build-system]
